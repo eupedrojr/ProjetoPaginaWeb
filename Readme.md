@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido para demonstrar minhas habilidades como desenvolvedor front-end utilizando HTML5, CSS, Visual Studio Code, Git e Github. Além disso, este projeto é uma oportunidade para eu mostrar minhas experiências, habilidades e capacitações adquiridas nos mais de 10 anos de atuação na área de TI.
